@@ -1,22 +1,30 @@
-## docker-library
+# docker-library
 
 kubernetes 相关 images 同步
 
-# 2018.1.2017
+## update log
+
+### 09/08/2018
+
+- ➕ kube-apiserver-amd64:v1.11.2
+
+
+
+### 2018.1.2017
 
 * 新增监控组件heapster v1.5.0
 	
 	包括两个目录:heapster-amd64和addon-resizer(addon-resizer:1.8.1)
 
-# 2017.12.24
+### 2017.12.24
 * 将kube的4个组件版本升级到1.9.0
 * 将本文采用markdown格式书写
 	
-# 2017.12.23
+### 2017.12.23
 * 删除无关的目录
 * 新增目录kube-aggregator-amd64
 	  
-# 2017.12.23
+### 2017.12.23
 
 	kube-apiserver-amd64:v1.8.4
 	kube-controller-manager-amd64:v1.8.4
