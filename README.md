@@ -7,8 +7,12 @@ kubernetes 相关 images 同步
 ### 09/08/2018
 
 - ➕ kube-apiserver-amd64:v1.11.2
-
-
+- ➕ coredns:1.1.3
+- ➕ etcd-amd64:3.2.18
+- ➕ kube-controller-manager-amd64:v1.11.2
+- ➕ kube-proxy-amd64:v1.11.2
+- ➕ kube-scheduler-amd64:v1.11.2
+- ➕ pause:3.1
 
 ### 2018.1.2017
 
