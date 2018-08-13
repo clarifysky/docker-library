@@ -7,6 +7,7 @@ kubernetes 相关 images 同步
 ### 13/08/2018
 
 - ➕ k8s.gcr.io/pause-amd64:3.1
+- ➕ k8s.gcr.io/kube-addon-manager:v8.6
 
 ### 10/08/2018
 
