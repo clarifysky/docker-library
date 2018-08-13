@@ -4,6 +4,10 @@ kubernetes 相关 images 同步
 
 ## update log
 
+### 13/08/2018
+
+- ➕ k8s.gcr.io/pause-amd64:3.1
+
 ### 10/08/2018
 
 - ➕ k8s.gcr.io/kube-apiserver-amd64:v1.10.0
