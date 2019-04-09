@@ -4,6 +4,16 @@ kubernetes 相关 images 同步
 
 ## update log
 
+### 09/04/2019
+
+- ➕ k8s.gcr.io/kube-apiserver:v1.14.0
+- ➕ k8s.gcr.io/kube-controller-manager:v1.14.0
+- ➕ k8s.gcr.io/kube-scheduler:v1.14.0
+- ➕ k8s.gcr.io/kube-proxy:v1.14.0
+- ➕ k8s.gcr.io/pause:3.1
+- ➕ k8s.gcr.io/etcd:3.3.10
+- ➕ k8s.gcr.io/coredns:1.3.1
+
 ### 13/08/2018
 
 - ➕ k8s.gcr.io/pause-amd64:3.1
